@@ -33,13 +33,22 @@
 - **JavaScript** (Vanilla ES6+)
 - **No Frameworks**: Extremely lightweight and fast.
 
-## 📦 Setup / Deployment
+## � Use It Now
 
-Simply host the files on any static site provider:
-- GitHub Pages
-- Vercel
-- Netlify
-- Or just open `index.html` locally!
+You don't need to install anything! The tool is live and ready to use.
+
+👉 **[Generate a Call Link Details Here](https://dcodevanga.github.io/callme/)**
+
+1.  Go to the site.
+2.  Enter your phone number.
+3.  Copy the link and put it in your Instagram bio, email signature, or anywhere else!
+
+## 📦 For Developers (Self-Hosting)
+
+If you want to host your own version:
+1.  Clone this repo.
+2.  Upload the files to any static host (GitHub Pages, Vercel, Netlify).
+3.  Or simply open `index.html` in your browser.
 
 ---
 &copy; 2026. Made by Devanga Rajkhowa. Because it was needed.
